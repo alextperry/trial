@@ -1,0 +1,64 @@
+body {
+        margin: 0;
+        padding: 0;
+        background-image: url(https://images.unsplash.com/photo-1547093349-65cdba98369a?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTV8fHxlbnwwfHx8fHw%3D);
+        background-size: 1590px;
+        background-position: top;
+        background-repeat: no-repeat;
+        height: 100vh;
+        
+    
+    display: block;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(33, 3, 3);
+}
+
+.common{
+  font-size: xx-large;
+  
+}
+
+.header{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.small{
+    font-size: large;
+}
+.link{
+    font-size:x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+color: black;
+    text-align: center;
+
+}
+
+.list{
+    font-size: x-large;
+    font-family:sans-serif;
+    text-align: left;
+    padding-left: 250px;
+    color: honeydew;
+    background-color: rgba(0, 0, 0, 0.326);
+}
+.anchor{
+    font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(11, 17, 74);
+    font-display:initial;
+}
+img{
+    height: 445px;
+    width: 350px;
+    float: right;
+    padding-right: 250px;
+    padding-top: 33px;
+}
+.footer{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: black;
+text-align: center;
+padding-bottom: 20px;
+}
